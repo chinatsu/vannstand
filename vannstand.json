@@ -1,8 +1,8 @@
 {
     "meta": {
-        "description": "a collection of water level measurements from Maridalen, as reported by news outlets. it appears that Vann- og avløpsetaten in Oslo kommune does not publish this data on their sites.",
+        "description": "a collection of water level measurements from Maridalen, as reported by news outlets. it appears that Vann- og avløpsetaten in Oslo kommune does not publish this data on their sites (yet?).",
         "structure": {
-            "date": "the approximated date of the measurement, YYYY-mm-dd",
+            "date": "string (YYYY-mm-dd), the approximated date of the measurement",
             "value": "float, reservoir fill percentage",
             "sources": "[]string, source url"
         }
