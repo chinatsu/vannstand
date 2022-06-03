@@ -4,9 +4,7 @@
         "structure": {
             "date": "the approximated date of the measurement, YYYY-mm-dd",
             "value": "float, reservoir fill percentage",
-            "sources": [
-                "a list of urls to the sources"
-            ]
+            "sources": "[]string, source url"
         }
     },
     "points": [
