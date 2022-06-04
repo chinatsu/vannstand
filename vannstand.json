@@ -3,14 +3,14 @@
 		"description": "a collection of water level measurements from Maridalen, as reported by news outlets. it appears that Vann- og avløpsetaten in Oslo kommune does not publish this data on their sites (yet?).",
 		"schema": {
 			"meta": {
+				"current_level": "integer, corresponding to level in levels (will be 0 if no level is active)",
 				"levels": [{
 					"level": "integer",
 					"fill_threshold": "float, the water level in percent when the level takes effect, or null if i don't know yet :)",
 					"effects": [
 						"string, what happens when the level is in effect (currently in norwegian sourced from https://www.nrk.no/osloogviken/oslo-kommune-har-et-vanntap-pa-nesten-40-prosent_-slik-jakter-de-pa-lekkasjene-1.15953889, sorry!)"
 					]
-				}],
-				"current_level": "integer, corresponding to level in levels"
+				}]
 			},
 			"points": [{
 				"date": "string (YYYY-mm-dd), the approximated date of the measurement",
@@ -20,6 +20,7 @@
 		}
 	},
 	"meta": {
+		"current_level": 1,
 		"levels": [{
 				"level": 1,
 				"fill_threshold": null,
@@ -69,8 +70,7 @@
 					"Senke magasiner under LRV og iverksette minstevannføring på 250 l/s til Akerselva gitt at søknaden er innvilget av NVE"
 				]
 			}
-		],
-		"current_level": 1
+		]
 	},
 	"points": [{
 			"date": "2022-06-02",
