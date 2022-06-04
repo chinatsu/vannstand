@@ -1,285 +1,349 @@
 {
-    "meta": {
-        "description": "a collection of water level measurements from Maridalen, as reported by news outlets. it appears that Vann- og avløpsetaten in Oslo kommune does not publish this data on their sites (yet?).",
-        "structure": {
-            "date": "string (YYYY-mm-dd), the approximated date of the measurement",
-            "value": "float, reservoir fill percentage",
-            "sources": "[]string, source url"
-        }
-    },
-    "points": [
-        {
-            "date": "2022-06-02",
-            "value": 0.69,
-            "sources": [
-                "https://datawrapper.dwcdn.net/Zo6XJ/1/dataset.csv",
-                "https://www.aftenposten.no/oslo/i/lVoL9y/ba-oslo-folk-spare-paa-vannet-naa-har-vannbruken-gaatt-ned-10-15-prosent"
-            ]
-        },
-        {
-            "date": "2022-06-01",
-            "value": 0.687,
-            "sources": [
-                "https://datawrapper.dwcdn.net/Zo6XJ/1/dataset.csv",
-                "https://www.aftenposten.no/oslo/i/lVoL9y/ba-oslo-folk-spare-paa-vannet-naa-har-vannbruken-gaatt-ned-10-15-prosent"
-            ]
-        },
-        {
-            "date": "2022-05-31",
-            "value": 0.686,
-            "sources": [
-                "https://datawrapper.dwcdn.net/Zo6XJ/1/dataset.csv",
-                "https://www.aftenposten.no/oslo/i/lVoL9y/ba-oslo-folk-spare-paa-vannet-naa-har-vannbruken-gaatt-ned-10-15-prosent"
-            ]
-        },
-        {
-            "date": "2022-05-30",
-            "value": 0.684,
-            "sources": [
-                "https://datawrapper.dwcdn.net/Zo6XJ/1/dataset.csv",
-                "https://www.aftenposten.no/oslo/i/lVoL9y/ba-oslo-folk-spare-paa-vannet-naa-har-vannbruken-gaatt-ned-10-15-prosent"
-            ]
-        },
-        {
-            "date": "2022-05-27",
-            "value": 0.682,
-            "sources": [
-                "https://datawrapper.dwcdn.net/Zo6XJ/1/dataset.csv",
-                "https://www.aftenposten.no/oslo/i/lVoL9y/ba-oslo-folk-spare-paa-vannet-naa-har-vannbruken-gaatt-ned-10-15-prosent"
-            ]
-        },
-        {
-            "date": "2022-05-26",
-            "value": 0.677,
-            "sources": [
-                "https://datawrapper.dwcdn.net/Zo6XJ/1/dataset.csv",
-                "https://www.aftenposten.no/oslo/i/lVoL9y/ba-oslo-folk-spare-paa-vannet-naa-har-vannbruken-gaatt-ned-10-15-prosent"
-            ]
-        },
-        {
-            "date": "2022-05-25",
-            "value": 0.674,
-            "sources": [
-                "https://datawrapper.dwcdn.net/Zo6XJ/1/dataset.csv",
-                "https://www.aftenposten.no/oslo/i/lVoL9y/ba-oslo-folk-spare-paa-vannet-naa-har-vannbruken-gaatt-ned-10-15-prosent"
-            ]
-        },
-        {
-            "date": "2022-05-24",
-            "value": 0.672,
-            "sources": [
-                "https://datawrapper.dwcdn.net/Zo6XJ/1/dataset.csv",
-                "https://www.aftenposten.no/oslo/i/lVoL9y/ba-oslo-folk-spare-paa-vannet-naa-har-vannbruken-gaatt-ned-10-15-prosent"
-            ]
-        },
-        {
-            "date": "2022-05-23",
-            "value": 0.673,
-            "sources": [
-                "https://datawrapper.dwcdn.net/Zo6XJ/1/dataset.csv",
-                "https://www.aftenposten.no/oslo/i/lVoL9y/ba-oslo-folk-spare-paa-vannet-naa-har-vannbruken-gaatt-ned-10-15-prosent"
-            ]
-        },
-        {
-            "date": "2022-05-22",
-            "value": 0.674,
-            "sources": [
-                "https://datawrapper.dwcdn.net/Zo6XJ/1/dataset.csv",
-                "https://www.aftenposten.no/oslo/i/lVoL9y/ba-oslo-folk-spare-paa-vannet-naa-har-vannbruken-gaatt-ned-10-15-prosent"
-            ]
-        },
-        {
-            "date": "2022-05-21",
-            "value": 0.673,
-            "sources": [
-                "https://datawrapper.dwcdn.net/Zo6XJ/1/dataset.csv",
-                "https://www.aftenposten.no/oslo/i/lVoL9y/ba-oslo-folk-spare-paa-vannet-naa-har-vannbruken-gaatt-ned-10-15-prosent"
-            ]
-        },
-        {
-            "date": "2022-05-20",
-            "value": 0.673,
-            "sources": [
-                "https://datawrapper.dwcdn.net/Zo6XJ/1/dataset.csv",
-                "https://www.aftenposten.no/oslo/i/lVoL9y/ba-oslo-folk-spare-paa-vannet-naa-har-vannbruken-gaatt-ned-10-15-prosent"
-            ]
-        },
-        {
-            "date": "2022-05-19",
-            "value": 0.675,
-            "sources": [
-                "https://datawrapper.dwcdn.net/Zo6XJ/1/dataset.csv",
-                "https://www.aftenposten.no/oslo/i/lVoL9y/ba-oslo-folk-spare-paa-vannet-naa-har-vannbruken-gaatt-ned-10-15-prosent"
-            ]
-        },
-        {
-            "date": "2022-05-18",
-            "value": 0.676,
-            "sources": [
-                "https://datawrapper.dwcdn.net/Zo6XJ/1/dataset.csv",
-                "https://www.aftenposten.no/oslo/i/lVoL9y/ba-oslo-folk-spare-paa-vannet-naa-har-vannbruken-gaatt-ned-10-15-prosent"
-            ]
-        },
-        {
-            "date": "2022-05-16",
-            "value": 0.679,
-            "sources": [
-                "https://datawrapper.dwcdn.net/Zo6XJ/1/dataset.csv",
-                "https://www.aftenposten.no/oslo/i/lVoL9y/ba-oslo-folk-spare-paa-vannet-naa-har-vannbruken-gaatt-ned-10-15-prosent"
-            ]
-        },
-        {
-            "date": "2022-05-13",
-            "value": 0.683,
-            "sources": [
-                "https://datawrapper.dwcdn.net/Zo6XJ/1/dataset.csv",
-                "https://www.aftenposten.no/oslo/i/lVoL9y/ba-oslo-folk-spare-paa-vannet-naa-har-vannbruken-gaatt-ned-10-15-prosent"
-            ]
-        },
-        {
-            "date": "2022-05-12",
-            "value": 0.684,
-            "sources": [
-                "https://datawrapper.dwcdn.net/Zo6XJ/1/dataset.csv",
-                "https://www.aftenposten.no/oslo/i/lVoL9y/ba-oslo-folk-spare-paa-vannet-naa-har-vannbruken-gaatt-ned-10-15-prosent"
-            ]
-        },
-        {
-            "date": "2022-05-11",
-            "value": 0.682,
-            "sources": [
-                "https://datawrapper.dwcdn.net/Zo6XJ/1/dataset.csv",
-                "https://www.aftenposten.no/oslo/i/lVoL9y/ba-oslo-folk-spare-paa-vannet-naa-har-vannbruken-gaatt-ned-10-15-prosent"
-            ]
-        },
-        {
-            "date": "2022-05-10",
-            "value": 0.681,
-            "sources": [
-                "https://datawrapper.dwcdn.net/Zo6XJ/1/dataset.csv",
-                "https://www.aftenposten.no/oslo/i/lVoL9y/ba-oslo-folk-spare-paa-vannet-naa-har-vannbruken-gaatt-ned-10-15-prosent"
-            ]
-        },
-        {
-            "date": "2022-05-09",
-            "value": 0.682,
-            "sources": [
-                "https://datawrapper.dwcdn.net/Zo6XJ/1/dataset.csv",
-                "https://www.aftenposten.no/oslo/i/lVoL9y/ba-oslo-folk-spare-paa-vannet-naa-har-vannbruken-gaatt-ned-10-15-prosent"
-            ]
-        },
-        {
-            "date": "2022-05-02",
-            "value": 0.69,
-            "sources": [
-                "https://www.aftenposten.no/oslo/i/5GdWGW/vannmangel-i-oslo-har-skrudd-av-fontener-og-toner-ned-vaarvasken",
-                "https://www.ao.no/dette-blir-neste-skritt-for-kommunen-hvis-regnet-uteblir-oslo-er-svart-sarbar/s/5-128-302490"
-            ]
-        },
-        {
-            "date": "2022-04-11",
-            "value": 0.659,
-            "sources": [
-                "https://www.aftenposten.no/oslo/i/5GdWGW/vannmangel-i-oslo-har-skrudd-av-fontener-og-toner-ned-vaarvasken"
-            ]
-        },
-        {
-            "date": "2022-04-04",
-            "value": 0.664,
-            "sources": [
-                "https://www.aftenposten.no/oslo/i/5GdWGW/vannmangel-i-oslo-har-skrudd-av-fontener-og-toner-ned-vaarvasken"
-            ]
-        },
-        {
-            "date": "2022-03-28",
-            "value": 0.654,
-            "sources": [
-                "https://www.aftenposten.no/oslo/i/5GdWGW/vannmangel-i-oslo-har-skrudd-av-fontener-og-toner-ned-vaarvasken"
-            ]
-        },
-        {
-            "date": "2022-03-21",
-            "value": 0.663,
-            "sources": [
-                "https://www.aftenposten.no/oslo/i/5GdWGW/vannmangel-i-oslo-har-skrudd-av-fontener-og-toner-ned-vaarvasken"
-            ]
-        },
-        {
-            "date": "2022-03-14",
-            "value": 0.673,
-            "sources": [
-                "https://www.aftenposten.no/oslo/i/5GdWGW/vannmangel-i-oslo-har-skrudd-av-fontener-og-toner-ned-vaarvasken"
-            ]
-        },
-        {
-            "date": "2022-03-07",
-            "value": 0.683,
-            "sources": [
-                "https://www.aftenposten.no/oslo/i/5GdWGW/vannmangel-i-oslo-har-skrudd-av-fontener-og-toner-ned-vaarvasken"
-            ]
-        },
-        {
-            "date": "2022-02-28",
-            "value": 0.691,
-            "sources": [
-                "https://www.aftenposten.no/oslo/i/5GdWGW/vannmangel-i-oslo-har-skrudd-av-fontener-og-toner-ned-vaarvasken"
-            ]
-        },
-        {
-            "date": "2022-02-21",
-            "value": 0.696,
-            "sources": [
-                "https://www.aftenposten.no/oslo/i/5GdWGW/vannmangel-i-oslo-har-skrudd-av-fontener-og-toner-ned-vaarvasken"
-            ]
-        },
-        {
-            "date": "2022-02-14",
-            "value": 0.678,
-            "sources": [
-                "https://www.aftenposten.no/oslo/i/5GdWGW/vannmangel-i-oslo-har-skrudd-av-fontener-og-toner-ned-vaarvasken"
-            ]
-        },
-        {
-            "date": "2022-02-07",
-            "value": 0.696,
-            "sources": [
-                "https://www.aftenposten.no/oslo/i/5GdWGW/vannmangel-i-oslo-har-skrudd-av-fontener-og-toner-ned-vaarvasken"
-            ]
-        },
-        {
-            "date": "2022-01-31",
-            "value": 0.707,
-            "sources": [
-                "https://www.aftenposten.no/oslo/i/5GdWGW/vannmangel-i-oslo-har-skrudd-av-fontener-og-toner-ned-vaarvasken"
-            ]
-        },
-        {
-            "date": "2022-01-24",
-            "value": 0.72,
-            "sources": [
-                "https://www.aftenposten.no/oslo/i/5GdWGW/vannmangel-i-oslo-har-skrudd-av-fontener-og-toner-ned-vaarvasken"
-            ]
-        },
-        {
-            "date": "2022-01-17",
-            "value": 0.733,
-            "sources": [
-                "https://www.aftenposten.no/oslo/i/5GdWGW/vannmangel-i-oslo-har-skrudd-av-fontener-og-toner-ned-vaarvasken"
-            ]
-        },
-        {
-            "date": "2022-01-10",
-            "value": 0.743,
-            "sources": [
-                "https://www.aftenposten.no/oslo/i/5GdWGW/vannmangel-i-oslo-har-skrudd-av-fontener-og-toner-ned-vaarvasken"
-            ]
-        },
-        {
-            "date": "2022-01-03",
-            "value": 0.752,
-            "sources": [
-                "https://www.aftenposten.no/oslo/i/5GdWGW/vannmangel-i-oslo-har-skrudd-av-fontener-og-toner-ned-vaarvasken"
-            ]
-        }
-    ]
+	"info": {
+		"description": "a collection of water level measurements from Maridalen, as reported by news outlets. it appears that Vann- og avløpsetaten in Oslo kommune does not publish this data on their sites (yet?).",
+		"schema": {
+			"meta": {
+				"levels": [{
+					"level": "integer",
+					"fill_threshold": "float, the water level in percent when the level takes effect, or null if i don't know yet :)",
+					"effects": [
+						"string, what happens when the level is in effect (currently in norwegian sourced from https://www.nrk.no/osloogviken/oslo-kommune-har-et-vanntap-pa-nesten-40-prosent_-slik-jakter-de-pa-lekkasjene-1.15953889, sorry!)"
+					]
+				}],
+				"current_level": "integer, corresponding to level in levels"
+			},
+			"points": [{
+				"date": "string (YYYY-mm-dd), the approximated date of the measurement",
+				"value": "float, reservoir fill percentage",
+				"sources": "[]string, source url"
+			}]
+		}
+	},
+	"meta": {
+		"levels": [{
+				"level": 1,
+				"fill_threshold": null,
+				"effects": [
+					"Redusere vannføringen i Akerselva fra 1500 l/s til 1000 l/s (minstevannføring)",
+					"Øke lekkasjesøk og reparasjoner på ledningsnettet",
+					"Informere publikum og interessenter og iverksette tiltak til, herunder konkrete forslag til tiltak som befolkningen kan iverksette (vannsparingskampanje)",
+					"Starte import av vann fra nabokommuner og Nedre Romerike vannverk",
+					"Iverksette vannsparingskampanje",
+					"Gjennomføre dialogmøter med Bymiljøetaten, Gravferdsetaten og Oslo Havn om redusert vannbruk i deres drift"
+				]
+			},
+			{
+				"level": 2,
+				"fill_threshold": 0.61,
+				"effects": [
+					"Stoppe all bruk av kommunalt vann til vanning, vannfyllerier, fontener o.l.",
+					"Redusere vannføringen i Akerselva til 750 l/s",
+					"Søke NVE og varsle Statsforvalteren om regulering av magasiner under LRV (laveste regulerte vannstand)",
+					"Søke NVE om anledning til å redusere vannføring i Akerselva helt ned til 250 l/s",
+					"Stoppe eventuell tapping av vann fra Elvåga til Fri-Elvåga"
+				]
+			},
+			{
+				"level": 3,
+				"fill_threshold": null,
+				"effects": [
+					"Redusere vannføringen i Akerselva fra 750 l/s til 500 l/s",
+					"Innføre restriksjoner på hagevanning",
+					"Innføre restriksjoner på bilvask",
+					"Gjøre tekniske forberedelser for pumping av vann fra Lutvann til Nøklevann og fra Nøklevann opp i tunnelen fra Elvåga til Skullerud",
+					"Etablere pumper i nedbørfeltet for å senke magasiner under LRV",
+					"Planlegge og gjøre forberedelser til å starte vannproduksjon fra Langlia og Alnsjøen, kokevarsel påkrevd",
+					"Varsle Mattilsynet og Helseetaten om oppstart av vannproduksjon fra Langlia og Alnsjøen beredskapsanlegg",
+					"Åpne kanalen mellom Lille og Store Sandungen",
+					"Vurdere å iverksette ytterligere tiltak overfor publikum og næringsliv for å redusere bruken av drikkevann"
+				]
+			},
+			{
+				"level": 4,
+				"fill_threshold": null,
+				"effects": [
+					"Starte vannproduksjon fra beredskapsvannene Langlia og Alnsjøen og sende ut kokevarsel",
+					"Pumpe vann fra Lutvann til Nøklevann og fra Nøklevann opp i tunnelen fra Elvåga til Skullerud vannbehandlingsanlegg",
+					"Innføre restriksjoner på bruk av Nøklevann til rekreasjonsformål så lenge det pumpes vann fra Nøklevann og opp i tunnelen fra Elvåga til Skullerud vannbehandlingsanlegg",
+					"Etablere pumper i Maridalsvannets utløp for å opprettholde minstevannføring i Akerselva dersom vannstanden i Maridalsvannet synker under LRV",
+					"Senke magasiner under LRV og iverksette minstevannføring på 250 l/s til Akerselva gitt at søknaden er innvilget av NVE"
+				]
+			}
+		],
+		"current_level": 1
+	},
+	"points": [{
+			"date": "2022-06-02",
+			"value": 0.69,
+			"sources": [
+				"https://datawrapper.dwcdn.net/Zo6XJ/1/dataset.csv",
+				"https://www.aftenposten.no/oslo/i/lVoL9y/ba-oslo-folk-spare-paa-vannet-naa-har-vannbruken-gaatt-ned-10-15-prosent"
+			]
+		},
+		{
+			"date": "2022-06-01",
+			"value": 0.687,
+			"sources": [
+				"https://datawrapper.dwcdn.net/Zo6XJ/1/dataset.csv",
+				"https://www.aftenposten.no/oslo/i/lVoL9y/ba-oslo-folk-spare-paa-vannet-naa-har-vannbruken-gaatt-ned-10-15-prosent"
+			]
+		},
+		{
+			"date": "2022-05-31",
+			"value": 0.686,
+			"sources": [
+				"https://datawrapper.dwcdn.net/Zo6XJ/1/dataset.csv",
+				"https://www.aftenposten.no/oslo/i/lVoL9y/ba-oslo-folk-spare-paa-vannet-naa-har-vannbruken-gaatt-ned-10-15-prosent"
+			]
+		},
+		{
+			"date": "2022-05-30",
+			"value": 0.684,
+			"sources": [
+				"https://datawrapper.dwcdn.net/Zo6XJ/1/dataset.csv",
+				"https://www.aftenposten.no/oslo/i/lVoL9y/ba-oslo-folk-spare-paa-vannet-naa-har-vannbruken-gaatt-ned-10-15-prosent"
+			]
+		},
+		{
+			"date": "2022-05-27",
+			"value": 0.682,
+			"sources": [
+				"https://datawrapper.dwcdn.net/Zo6XJ/1/dataset.csv",
+				"https://www.aftenposten.no/oslo/i/lVoL9y/ba-oslo-folk-spare-paa-vannet-naa-har-vannbruken-gaatt-ned-10-15-prosent"
+			]
+		},
+		{
+			"date": "2022-05-26",
+			"value": 0.677,
+			"sources": [
+				"https://datawrapper.dwcdn.net/Zo6XJ/1/dataset.csv",
+				"https://www.aftenposten.no/oslo/i/lVoL9y/ba-oslo-folk-spare-paa-vannet-naa-har-vannbruken-gaatt-ned-10-15-prosent"
+			]
+		},
+		{
+			"date": "2022-05-25",
+			"value": 0.674,
+			"sources": [
+				"https://datawrapper.dwcdn.net/Zo6XJ/1/dataset.csv",
+				"https://www.aftenposten.no/oslo/i/lVoL9y/ba-oslo-folk-spare-paa-vannet-naa-har-vannbruken-gaatt-ned-10-15-prosent"
+			]
+		},
+		{
+			"date": "2022-05-24",
+			"value": 0.672,
+			"sources": [
+				"https://datawrapper.dwcdn.net/Zo6XJ/1/dataset.csv",
+				"https://www.aftenposten.no/oslo/i/lVoL9y/ba-oslo-folk-spare-paa-vannet-naa-har-vannbruken-gaatt-ned-10-15-prosent"
+			]
+		},
+		{
+			"date": "2022-05-23",
+			"value": 0.673,
+			"sources": [
+				"https://datawrapper.dwcdn.net/Zo6XJ/1/dataset.csv",
+				"https://www.aftenposten.no/oslo/i/lVoL9y/ba-oslo-folk-spare-paa-vannet-naa-har-vannbruken-gaatt-ned-10-15-prosent"
+			]
+		},
+		{
+			"date": "2022-05-22",
+			"value": 0.674,
+			"sources": [
+				"https://datawrapper.dwcdn.net/Zo6XJ/1/dataset.csv",
+				"https://www.aftenposten.no/oslo/i/lVoL9y/ba-oslo-folk-spare-paa-vannet-naa-har-vannbruken-gaatt-ned-10-15-prosent"
+			]
+		},
+		{
+			"date": "2022-05-21",
+			"value": 0.673,
+			"sources": [
+				"https://datawrapper.dwcdn.net/Zo6XJ/1/dataset.csv",
+				"https://www.aftenposten.no/oslo/i/lVoL9y/ba-oslo-folk-spare-paa-vannet-naa-har-vannbruken-gaatt-ned-10-15-prosent"
+			]
+		},
+		{
+			"date": "2022-05-20",
+			"value": 0.673,
+			"sources": [
+				"https://datawrapper.dwcdn.net/Zo6XJ/1/dataset.csv",
+				"https://www.aftenposten.no/oslo/i/lVoL9y/ba-oslo-folk-spare-paa-vannet-naa-har-vannbruken-gaatt-ned-10-15-prosent"
+			]
+		},
+		{
+			"date": "2022-05-19",
+			"value": 0.675,
+			"sources": [
+				"https://datawrapper.dwcdn.net/Zo6XJ/1/dataset.csv",
+				"https://www.aftenposten.no/oslo/i/lVoL9y/ba-oslo-folk-spare-paa-vannet-naa-har-vannbruken-gaatt-ned-10-15-prosent"
+			]
+		},
+		{
+			"date": "2022-05-18",
+			"value": 0.676,
+			"sources": [
+				"https://datawrapper.dwcdn.net/Zo6XJ/1/dataset.csv",
+				"https://www.aftenposten.no/oslo/i/lVoL9y/ba-oslo-folk-spare-paa-vannet-naa-har-vannbruken-gaatt-ned-10-15-prosent"
+			]
+		},
+		{
+			"date": "2022-05-16",
+			"value": 0.679,
+			"sources": [
+				"https://datawrapper.dwcdn.net/Zo6XJ/1/dataset.csv",
+				"https://www.aftenposten.no/oslo/i/lVoL9y/ba-oslo-folk-spare-paa-vannet-naa-har-vannbruken-gaatt-ned-10-15-prosent"
+			]
+		},
+		{
+			"date": "2022-05-13",
+			"value": 0.683,
+			"sources": [
+				"https://datawrapper.dwcdn.net/Zo6XJ/1/dataset.csv",
+				"https://www.aftenposten.no/oslo/i/lVoL9y/ba-oslo-folk-spare-paa-vannet-naa-har-vannbruken-gaatt-ned-10-15-prosent"
+			]
+		},
+		{
+			"date": "2022-05-12",
+			"value": 0.684,
+			"sources": [
+				"https://datawrapper.dwcdn.net/Zo6XJ/1/dataset.csv",
+				"https://www.aftenposten.no/oslo/i/lVoL9y/ba-oslo-folk-spare-paa-vannet-naa-har-vannbruken-gaatt-ned-10-15-prosent"
+			]
+		},
+		{
+			"date": "2022-05-11",
+			"value": 0.682,
+			"sources": [
+				"https://datawrapper.dwcdn.net/Zo6XJ/1/dataset.csv",
+				"https://www.aftenposten.no/oslo/i/lVoL9y/ba-oslo-folk-spare-paa-vannet-naa-har-vannbruken-gaatt-ned-10-15-prosent"
+			]
+		},
+		{
+			"date": "2022-05-10",
+			"value": 0.681,
+			"sources": [
+				"https://datawrapper.dwcdn.net/Zo6XJ/1/dataset.csv",
+				"https://www.aftenposten.no/oslo/i/lVoL9y/ba-oslo-folk-spare-paa-vannet-naa-har-vannbruken-gaatt-ned-10-15-prosent"
+			]
+		},
+		{
+			"date": "2022-05-09",
+			"value": 0.682,
+			"sources": [
+				"https://datawrapper.dwcdn.net/Zo6XJ/1/dataset.csv",
+				"https://www.aftenposten.no/oslo/i/lVoL9y/ba-oslo-folk-spare-paa-vannet-naa-har-vannbruken-gaatt-ned-10-15-prosent"
+			]
+		},
+		{
+			"date": "2022-05-02",
+			"value": 0.69,
+			"sources": [
+				"https://www.aftenposten.no/oslo/i/5GdWGW/vannmangel-i-oslo-har-skrudd-av-fontener-og-toner-ned-vaarvasken",
+				"https://www.ao.no/dette-blir-neste-skritt-for-kommunen-hvis-regnet-uteblir-oslo-er-svart-sarbar/s/5-128-302490"
+			]
+		},
+		{
+			"date": "2022-04-11",
+			"value": 0.659,
+			"sources": [
+				"https://www.aftenposten.no/oslo/i/5GdWGW/vannmangel-i-oslo-har-skrudd-av-fontener-og-toner-ned-vaarvasken"
+			]
+		},
+		{
+			"date": "2022-04-04",
+			"value": 0.664,
+			"sources": [
+				"https://www.aftenposten.no/oslo/i/5GdWGW/vannmangel-i-oslo-har-skrudd-av-fontener-og-toner-ned-vaarvasken"
+			]
+		},
+		{
+			"date": "2022-03-28",
+			"value": 0.654,
+			"sources": [
+				"https://www.aftenposten.no/oslo/i/5GdWGW/vannmangel-i-oslo-har-skrudd-av-fontener-og-toner-ned-vaarvasken"
+			]
+		},
+		{
+			"date": "2022-03-21",
+			"value": 0.663,
+			"sources": [
+				"https://www.aftenposten.no/oslo/i/5GdWGW/vannmangel-i-oslo-har-skrudd-av-fontener-og-toner-ned-vaarvasken"
+			]
+		},
+		{
+			"date": "2022-03-14",
+			"value": 0.673,
+			"sources": [
+				"https://www.aftenposten.no/oslo/i/5GdWGW/vannmangel-i-oslo-har-skrudd-av-fontener-og-toner-ned-vaarvasken"
+			]
+		},
+		{
+			"date": "2022-03-07",
+			"value": 0.683,
+			"sources": [
+				"https://www.aftenposten.no/oslo/i/5GdWGW/vannmangel-i-oslo-har-skrudd-av-fontener-og-toner-ned-vaarvasken"
+			]
+		},
+		{
+			"date": "2022-02-28",
+			"value": 0.691,
+			"sources": [
+				"https://www.aftenposten.no/oslo/i/5GdWGW/vannmangel-i-oslo-har-skrudd-av-fontener-og-toner-ned-vaarvasken"
+			]
+		},
+		{
+			"date": "2022-02-21",
+			"value": 0.696,
+			"sources": [
+				"https://www.aftenposten.no/oslo/i/5GdWGW/vannmangel-i-oslo-har-skrudd-av-fontener-og-toner-ned-vaarvasken"
+			]
+		},
+		{
+			"date": "2022-02-14",
+			"value": 0.678,
+			"sources": [
+				"https://www.aftenposten.no/oslo/i/5GdWGW/vannmangel-i-oslo-har-skrudd-av-fontener-og-toner-ned-vaarvasken"
+			]
+		},
+		{
+			"date": "2022-02-07",
+			"value": 0.696,
+			"sources": [
+				"https://www.aftenposten.no/oslo/i/5GdWGW/vannmangel-i-oslo-har-skrudd-av-fontener-og-toner-ned-vaarvasken"
+			]
+		},
+		{
+			"date": "2022-01-31",
+			"value": 0.707,
+			"sources": [
+				"https://www.aftenposten.no/oslo/i/5GdWGW/vannmangel-i-oslo-har-skrudd-av-fontener-og-toner-ned-vaarvasken"
+			]
+		},
+		{
+			"date": "2022-01-24",
+			"value": 0.72,
+			"sources": [
+				"https://www.aftenposten.no/oslo/i/5GdWGW/vannmangel-i-oslo-har-skrudd-av-fontener-og-toner-ned-vaarvasken"
+			]
+		},
+		{
+			"date": "2022-01-17",
+			"value": 0.733,
+			"sources": [
+				"https://www.aftenposten.no/oslo/i/5GdWGW/vannmangel-i-oslo-har-skrudd-av-fontener-og-toner-ned-vaarvasken"
+			]
+		},
+		{
+			"date": "2022-01-10",
+			"value": 0.743,
+			"sources": [
+				"https://www.aftenposten.no/oslo/i/5GdWGW/vannmangel-i-oslo-har-skrudd-av-fontener-og-toner-ned-vaarvasken"
+			]
+		},
+		{
+			"date": "2022-01-03",
+			"value": 0.752,
+			"sources": [
+				"https://www.aftenposten.no/oslo/i/5GdWGW/vannmangel-i-oslo-har-skrudd-av-fontener-og-toner-ned-vaarvasken"
+			]
+		}
+	]
 }
