@@ -23,7 +23,7 @@
 		"current_level": 1,
 		"levels": [{
 				"level": 1,
-				"fill_threshold": null,
+				"fill_threshold": 0.798,
 				"effects": [
 					"Redusere vannføringen i Akerselva fra 1500 l/s til 1000 l/s (minstevannføring)",
 					"Øke lekkasjesøk og reparasjoner på ledningsnettet",
@@ -72,7 +72,15 @@
 			}
 		]
 	},
-	"points": [{
+	"points": [
+		{
+			"date": "2022-06-09",
+			"value":  0.697,
+			"sources": [
+				"https://vartoslo.no/frode-hult-hanne-sofie-fremstad-heidi-sydnes-egeland/vannstanden-i-maridalsvannet-pa-vei-opp-se-de-oppdaterte-tallene-og-les-hvordan-du-kan-gjore-en-forskjell/381508"
+			]
+		},
+		{
 			"date": "2022-06-02",
 			"value": 0.69,
 			"sources": [
